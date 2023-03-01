@@ -1,0 +1,15 @@
+E:\assingmets\Reverce_Number\bin\Debug\net6.0\Reverce_Number.exe
+E:\assingmets\Reverce_Number\bin\Debug\net6.0\Reverce_Number.deps.json
+E:\assingmets\Reverce_Number\bin\Debug\net6.0\Reverce_Number.runtimeconfig.json
+E:\assingmets\Reverce_Number\bin\Debug\net6.0\Reverce_Number.dll
+E:\assingmets\Reverce_Number\bin\Debug\net6.0\Reverce_Number.pdb
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\Reverce_Number.csproj.AssemblyReference.cache
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\Reverce_Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\Reverce_Number.AssemblyInfoInputs.cache
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\Reverce_Number.AssemblyInfo.cs
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\Reverce_Number.csproj.CoreCompileInputs.cache
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\Reverce_Number.dll
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\refint\Reverce_Number.dll
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\Reverce_Number.pdb
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\Reverce_Number.genruntimeconfig.cache
+E:\assingmets\Reverce_Number\obj\Debug\net6.0\ref\Reverce_Number.dll
