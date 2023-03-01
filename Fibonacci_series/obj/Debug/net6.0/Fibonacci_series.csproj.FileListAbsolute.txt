@@ -1,0 +1,15 @@
+E:\assingmets\Fibonacci_series\bin\Debug\net6.0\Fibonacci_series.exe
+E:\assingmets\Fibonacci_series\bin\Debug\net6.0\Fibonacci_series.deps.json
+E:\assingmets\Fibonacci_series\bin\Debug\net6.0\Fibonacci_series.runtimeconfig.json
+E:\assingmets\Fibonacci_series\bin\Debug\net6.0\Fibonacci_series.dll
+E:\assingmets\Fibonacci_series\bin\Debug\net6.0\Fibonacci_series.pdb
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\Fibonacci_series.csproj.AssemblyReference.cache
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\Fibonacci_series.GeneratedMSBuildEditorConfig.editorconfig
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\Fibonacci_series.AssemblyInfoInputs.cache
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\Fibonacci_series.AssemblyInfo.cs
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\Fibonacci_series.csproj.CoreCompileInputs.cache
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\Fibonacci_series.dll
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\refint\Fibonacci_series.dll
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\Fibonacci_series.pdb
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\Fibonacci_series.genruntimeconfig.cache
+E:\assingmets\Fibonacci_series\obj\Debug\net6.0\ref\Fibonacci_series.dll
