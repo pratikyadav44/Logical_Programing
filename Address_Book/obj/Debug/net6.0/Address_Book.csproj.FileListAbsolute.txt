@@ -1,0 +1,15 @@
+E:\assingmets\Address_Book\bin\Debug\net6.0\Address_Book.exe
+E:\assingmets\Address_Book\bin\Debug\net6.0\Address_Book.deps.json
+E:\assingmets\Address_Book\bin\Debug\net6.0\Address_Book.runtimeconfig.json
+E:\assingmets\Address_Book\bin\Debug\net6.0\Address_Book.dll
+E:\assingmets\Address_Book\bin\Debug\net6.0\Address_Book.pdb
+E:\assingmets\Address_Book\obj\Debug\net6.0\Address_Book.csproj.AssemblyReference.cache
+E:\assingmets\Address_Book\obj\Debug\net6.0\Address_Book.GeneratedMSBuildEditorConfig.editorconfig
+E:\assingmets\Address_Book\obj\Debug\net6.0\Address_Book.AssemblyInfoInputs.cache
+E:\assingmets\Address_Book\obj\Debug\net6.0\Address_Book.AssemblyInfo.cs
+E:\assingmets\Address_Book\obj\Debug\net6.0\Address_Book.csproj.CoreCompileInputs.cache
+E:\assingmets\Address_Book\obj\Debug\net6.0\Address_Book.dll
+E:\assingmets\Address_Book\obj\Debug\net6.0\refint\Address_Book.dll
+E:\assingmets\Address_Book\obj\Debug\net6.0\Address_Book.pdb
+E:\assingmets\Address_Book\obj\Debug\net6.0\Address_Book.genruntimeconfig.cache
+E:\assingmets\Address_Book\obj\Debug\net6.0\ref\Address_Book.dll
