@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverce_Number", "Reverce_Number.csproj", "{6AF5527E-A7FD-4376-9082-7EBACC1C694D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF5527E-A7FD-4376-9082-7EBACC1C694D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF5527E-A7FD-4376-9082-7EBACC1C694D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF5527E-A7FD-4376-9082-7EBACC1C694D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF5527E-A7FD-4376-9082-7EBACC1C694D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9C42ED-323E-451F-9911-CA1134C43D62}
+	EndGlobalSection
+EndGlobal
